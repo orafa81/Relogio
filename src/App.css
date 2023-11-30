@@ -1,0 +1,20 @@
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+
+.p-3 {
+    padding: 1rem;
+}
+
+.white {
+    color: white;
+}
